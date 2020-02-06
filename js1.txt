@@ -1,6 +1,7 @@
 function prnt(){
 
 console.log('helle world');
+console.log('hi orgad');
 }
 
 prnt();
